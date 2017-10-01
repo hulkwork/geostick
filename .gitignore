@@ -1,0 +1,6 @@
+data/*.zip
+data/state.txt
+*.iml
+packages
+*.csv
+*.vrt
